@@ -29,8 +29,7 @@
 ##### - Period : 2017.9
 ##### - Language : Gulp, Nodejs
 ##### - Description : In your project, you will add lots of images you don't know. This plugin will help you check unused image files in your code Support Type : jpg,gif,bmp,png,tif,raw,psd
-
-Gulp check unused images plugin 보기프로젝트 보기
+##### - Repo Link : https://github.com/kingsae1/gulp-check-unused-image
 
 ## KT Voice 홈포탈 (POC용)
 ##### - Period : 2017.6 ~ 2017.7
