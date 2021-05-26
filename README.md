@@ -1,6 +1,7 @@
-# 👋 Portfolio 👋
+# 🖥️ Programming Languages
 <img src="https://img.shields.io/badge/language-javascript%20-green?logo=javascript"/> <img src="https://img.shields.io/badge/language-python-green?logo=python"/> <img src="https://img.shields.io/badge/language-go-green?logo=go"/> <img src="https://img.shields.io/badge/platform-nodejs-blue?logo=node"/> <img src="https://img.shields.io/badge/platform-mongodb-blue?logo=mongodb"/> <img src="https://img.shields.io/badge/platform-git-blue?logo=git"/> <img src="https://img.shields.io/badge/framework-vue-orange?logo=vue-dot-js"/> <img src="https://img.shields.io/badge/framework-nuxt-orange?logo=nuxt-dot-js"/> <img src="https://img.shields.io/badge/framework-react-orange?logo=react"/> <img src="https://img.shields.io/badge/framework-reactnative-orange?logo=reactnativejs"/> <img src="https://img.shields.io/badge/framework-angularjs-orange?logo=angular"/> <img src="https://img.shields.io/badge/framework-tensorflow-orange?logo=tensorflow"/> <img src="https://img.shields.io/badge/framework-pytorch-orange?logo=pytorch"/>
 
+# 🔥 Project Portfolio
 ## KT - 차세대 NextUX
 ##### - Period : 2020 – 2021
 ##### - Language : Git, Webpack, Nodejs, Python, Go
