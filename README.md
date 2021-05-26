@@ -1,4 +1,6 @@
 # 👋 Portfolio 👋
+<img src="https://img.shields.io/badge/language-javascript%20-green"/> <img src="https://img.shields.io/badge/language-python-green"/> <img src="https://img.shields.io/badge/language-go-green"/> <img src="https://img.shields.io/badge/platform-nodejs-blue"/> <img src="https://img.shields.io/badge/platform-mongodb-blue"/> <img src="https://img.shields.io/badge/platform-git-blue"/> <img src="https://img.shields.io/badge/framework-vue-orange"/> <img src="https://img.shields.io/badge/framework-nuxt-orange"/> <img src="https://img.shields.io/badge/framework-react-orange"/> <img src="https://img.shields.io/badge/framework-reactnative-orange"/> <img src="https://img.shields.io/badge/framework-angularjs-orange"/> <img src="https://img.shields.io/badge/framework-tensorflow-orange"/> <img src="https://img.shields.io/badge/framework-pytorch-orange"/>
+
 ## KT - 차세대 NextUX
 ##### - Period : 2020 – 2021
 ##### - Language : Git, Webpack, Nodejs, Python, Go
