@@ -1,4 +1,9 @@
 # 👋 Portfolio 👋
+## KT - 차세대 NextUX
+##### - Period : 2020 – 2021
+##### - Language : Git, Webpack, Nodejs, Python, Go
+##### - Description : 차세대 미디어 서비스 개발 (서버 및 Client SDK)
+
 ## Ahnlab - Coldbrew
 ##### - Period : 2019 – 2020
 ##### - Language : Git, Webpack, Vue, Nuxt
@@ -81,17 +86,3 @@ Gulp check unused images plugin 보기프로젝트 보기
 ##### - Period : 2013.10 ~ 2013.12
 ##### - Language : javascript, jquery, oipf, svn, ant
 ##### - Description : Cloud서버내에 있는 미디어 파일들과 휴대폰에 존재하는 미디어파일들을 TV어플 내에서 앨범형태로 제공하는 서비스
-
-**kingsae1/kingsae1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
