@@ -5,10 +5,22 @@
 <img src="https://img.shields.io/badge/language-javascript%20-green?logo=javascript"/> <img src="https://img.shields.io/badge/language-python-green?logo=python"/> <img src="https://img.shields.io/badge/language-go-green?logo=go"/> <img src="https://img.shields.io/badge/platform-nodejs-blue?logo=node"/> <img src="https://img.shields.io/badge/platform-mongodb-blue?logo=mongodb"/> <img src="https://img.shields.io/badge/platform-git-blue?logo=git"/> <img src="https://img.shields.io/badge/framework-vue-orange?logo=vue-dot-js"/> <img src="https://img.shields.io/badge/framework-nuxt-orange?logo=nuxt-dot-js"/> <img src="https://img.shields.io/badge/framework-react-orange?logo=react"/> <img src="https://img.shields.io/badge/framework-reactnative-orange?logo=reactnativejs"/> <img src="https://img.shields.io/badge/framework-angularjs-orange?logo=angular"/> <img src="https://img.shields.io/badge/framework-tensorflow-orange?logo=tensorflow"/> <img src="https://img.shields.io/badge/framework-pytorch-orange?logo=pytorch"/>
 
 # 🔥 Project Portfolio
+## ToyProject - (Chrome Extenstions) SkipVideo
+##### - Period : 2021.10 (1 month)
+##### - Language : Chrome Extenstions (JS)
+##### - Description : Chrome Extenstion을 이용하여 Context에 영상 빨리감기를 위한 단축 버튼을 제공하는 플러그인
+##### - Repo Link : https://github.com/kingsae1/chrome-skipvideo-js
+
 ## KT - InAbleCapture 
 ##### - Period : 2021.07 - 2021.08
 ##### - Language : Go, Svelte, Electorn, Firebase, Nodejs
 ##### - Description: Hooking, Code Injection을 이용하여 KT OllehTv 특정 서비스(InApp) 자동 캡쳐 및 업로드 툴
+
+## ToyProject - AutoMover
+##### - Period : 2021
+##### - Language : Go
+##### - Description : 사무용 PC에서 자동 절전모드를 막기위한 AutoMover
+##### - Repo Link : https://github.com/kingsae1/go-automover-hook
 
 ## KT - 차세대 NextUX
 ##### - Period : 2020 – 2021
