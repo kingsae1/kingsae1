@@ -48,7 +48,7 @@
 
 국내 IPTV 최대 가입자를 보유하고 있는 KT의 메인 어플리케이션으로써, 이를 홈포탈이라 칭하며 (브렌드명 : 올레TV) 메뉴부터 구매와 Player 개발
 
-## Gulp check unused images plugin
+## ToyProject - Gulp check unused images plugin
 ##### - Period : 2017.9
 ##### - Language : Gulp, Nodejs
 ##### - Description : In your project, you will add lots of images you don't know. This plugin will help you check unused image files in your code Support Type : jpg,gif,bmp,png,tif,raw,psd
