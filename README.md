@@ -15,17 +15,20 @@
 ##### - Period : 2021.07 - 2021.08
 ##### - Language : Go, Svelte, Electorn, Firebase, Nodejs
 ##### - Description: Hooking, Code Injection을 이용하여 KT OllehTv 특정 서비스(InApp) 자동 캡쳐 및 업로드 툴
+<img src="https://kingsae1.github.io/assets/img/portfolio/kt_inablecapture.png" alt="InAblerCapture">
 
 ## ToyProject - AutoMover
 ##### - Period : 2021
 ##### - Language : Go
 ##### - Description : 사무용 PC에서 자동 절전모드를 막기위한 AutoMover
 ##### - Repo Link : https://github.com/kingsae1/go-automover-hook
+<img src="https://kingsae1.github.io/assets/img/portfolio/automover.png" alt="AutoMover">
 
 ## KT - 차세대 NextUX
 ##### - Period : 2020 – 2021
 ##### - Language : Git, Webpack, Nodejs, Python, Go
 ##### - Description : 차세대 미디어 서비스 개발 (서버 및 Client SDK)
+<img src="https://kingsae1.github.io/assets/img/portfolio/kt_voiceportal.png" alt="KT NextUX">
 
 ## Ahnlab - Coldbrew
 ##### - Period : 2019 – 2020
@@ -36,7 +39,7 @@
 ##### - Period : 2017.11 – 2019
 ##### - Language : Git, Gulp, Nodejs, Xml Parser, PSD parser, Socket, MongoDB
 ##### - Description : Screen Viewer 로써 개발자와 디자이너간의 GUI 를 좀 더 편하게 관리 및 커뮤니케이션을 할 수 있도록 제공해주는 Application 
-<img src="https://kingsae1.github.io/assets/img/portfolio/kt_smarthome.png" alt="KT 홈포탈 (Smart3.0)">
+<img src="https://kingsae1.github.io/assets/img/portfolio/alti_screenview.png" alt="Screen Viewer">
 
 ## KT 홈포탈 (Smart 3.0)
 ##### - Period : 2017.8 – 2019
