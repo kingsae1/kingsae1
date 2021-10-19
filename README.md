@@ -108,3 +108,4 @@
 ##### - Period : 2013.10 ~ 2013.12
 ##### - Language : javascript, jquery, oipf, svn, ant
 ##### - Description : Cloud서버내에 있는 미디어 파일들과 휴대폰에 존재하는 미디어파일들을 TV어플 내에서 앨범형태로 제공하는 서비스
+<img src="https://kingsae1.github.io/assets/img/portfolio/kt_ucloud.png">
