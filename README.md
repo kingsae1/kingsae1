@@ -36,17 +36,19 @@
 ##### - Period : 2017.11 – 2019
 ##### - Language : Git, Gulp, Nodejs, Xml Parser, PSD parser, Socket, MongoDB
 ##### - Description : Screen Viewer 로써 개발자와 디자이너간의 GUI 를 좀 더 편하게 관리 및 커뮤니케이션을 할 수 있도록 제공해주는 Application 
+<img src="https://kingsae1.github.io/assets/img/portfolio/kt_smarthome.png" alt="KT 홈포탈 (Smart3.0)">
 
 ## KT 홈포탈 (Smart 3.0)
 ##### - Period : 2017.8 – 2019
 ##### - Language : javascript, jquery, oifp, git, gulp
 ##### - Description : 차세대 홈포탈 어플리케이션으로써, 전면적인 UI개편과 기능 추가 및 애니메이션 추가. 메뉴와 VOD, 구매 개발 담당
+<img src="https://kingsae1.github.io/assets/img/portfolio/kt_smarthome.png" alt="KT 홈포탈 (Smart3.0)">
 
 ## KT 홈포탈 (ollehTv)
 ##### - Period : 2016.6 – 2018
 ##### - Language : javascript, jquery, oifp, git, gulp
-
-국내 IPTV 최대 가입자를 보유하고 있는 KT의 메인 어플리케이션으로써, 이를 홈포탈이라 칭하며 (브렌드명 : 올레TV) 메뉴부터 구매와 Player 개발
+##### - Description :  국내 IPTV 최대 가입자를 보유하고 있는 KT의 메인 어플리케이션으로써, 이를 홈포탈이라 칭하며 (브렌드명 : 올레TV) 메뉴부터 구매와 Player 개발
+<img src="https://kingsae1.github.io/assets/img/portfolio/kt_homeportal.png" alt="KT 홈포탈 (OllehTV)">
 
 ## ToyProject - Gulp check unused images plugin
 ##### - Period : 2017.9
@@ -68,12 +70,13 @@
 ##### - Period : 2015.10 ~ 2016.5
 ##### - Language : javascript, openGl, oifp, git, ant
 ##### - Description : 캐나다 1위 케이블 사업자인 Rogers에 홈포탈 어플리케이션 제공. 케이블의 환경상 캐나다 토론토에 거주하며 개발.PVR, 상세화면, PlayControl 개발 담당
+<img src="https://kingsae1.github.io/assets/img/portfolio/rogers_eclipse.png" alt="Rogers (Eclipse 3.0)">
 
 ## Skylife MovieChoice Application
 ##### - Period : 2015.9
 ##### - Language : javascript, jquery, oifp, git, ant
 ##### - Description : Skylife Appstore에 제공되는 어플리케이션으로써, 추천영화 및 구매정보 제공하는 어플 개발
-<img src="https://kingsae1.github.io/assets/img/portfolio/alti_ott.png" alt="GRP (Group ware) Hybrid Application">
+<img src="https://kingsae1.github.io/assets/img/portfolio/skylife_moviechoice.png" alt="Skylife MovieChoice Application">
 
 ## GRP (Group ware) Hybrid Application
 ##### - Period : 2015.3 ~ 2015.6
