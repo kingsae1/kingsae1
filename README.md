@@ -73,21 +73,25 @@
 ##### - Period : 2015.9
 ##### - Language : javascript, jquery, oifp, git, ant
 ##### - Description : Skylife Appstore에 제공되는 어플리케이션으로써, 추천영화 및 구매정보 제공하는 어플 개발
+<img src="https://kingsae1.github.io/assets/img/portfolio/alti_ott.png" alt="GRP (Group ware) Hybrid Application">
 
 ## GRP (Group ware) Hybrid Application
 ##### - Period : 2015.3 ~ 2015.6
 ##### - Language : javascript, angularJs, swift, android, git, gulp
 ##### - Description : 사내 주소록 어플리케이션 개발. 비용절감을 위해 하이브리드 형태로 어플리케이션을 개발
+<img src="https://kingsae1.github.io/assets/img/portfolio/alti_ott.png" alt="GRP (Group ware) Hybrid Application">
 
 ## Skylife Appstore
 ##### - Period : 2014.12 ~ 2015.3
 ##### - Language : javascript, jquery, oifp, git, ant
 ##### - Description : TTA 표준에 맞춘 앱스토어로써 skylife 단말에 포함되는 resident application
+<img src="https://kingsae1.github.io/assets/img/portfolio/skylife_appstore.png" alt="Skylife Appstore">
 
 ## Ns 홈쇼핑 DP Application
 ##### - Period : 2014.10 ~ 2015.1
 ##### - Language :  javascript, jquery, oifp, svn, ant
 ##### - Description : 셋탑에서 홈쇼핑채널에서 제공하는 양방향 어플로써, 홈쇼핑을 TV에서 이용, 구매를 제공하 는 어플리케이션
+<img src="https://kingsae1.github.io/assets/img/portfolio/nshome.png" alt="Ns 홈쇼핑 DP Application">
 
 ## TTA Appstore
 ##### - Period : 2014.5
@@ -98,14 +102,16 @@
 ##### - Period : 2013.11 ~ 2014.4
 ##### - Language : javascript, jquery, oifp, uPnP, DLNAStack, svn, ant
 ##### - Description : uPnP기술을 이용해 타기기와 통신하여 컨텐츠를 재생 및 컨트롤하여 TV에 컨텐츠를 재생
+<img src="https://kingsae1.github.io/assets/img/portfolio/kt_dlna.png" alt="KT DLNA player application">
 
 ## KT Usb player application
 ##### - Period : 2013.11 ~ 2014.4
 ##### - Language : javascript, jquery, oifp, uPnP, usbStack, svn, ant
 ##### - Description : Alticast Usb stack을 이용해 USb내에 존재하는 미디어 파일들을 TV에서 재생
+<img src="https://kingsae1.github.io/assets/img/portfolio/kt_usb.png" alt="KT Usb player application">
 
 ## KT ucloud album application
 ##### - Period : 2013.10 ~ 2013.12
 ##### - Language : javascript, jquery, oipf, svn, ant
 ##### - Description : Cloud서버내에 있는 미디어 파일들과 휴대폰에 존재하는 미디어파일들을 TV어플 내에서 앨범형태로 제공하는 서비스
-<img src="https://kingsae1.github.io/assets/img/portfolio/kt_ucloud.png">
+<img src="https://kingsae1.github.io/assets/img/portfolio/kt_ucloud.png" alt="KT ucloud album application">
