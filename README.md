@@ -9,6 +9,8 @@
 ##### - Period : 2022.07 (1.5 weeks)
 ##### - Language : Electron, Svelte, Nodejs, MongoDB, Firebase
 ##### - Description : 가로형 포스터 검수를 위한 프로그램
+<img src="https://kingsae1.github.io/assets/img/portfolio/4.jpg" alt="KT Poster Viewer">
+
 
 ## KT - Next ollehTV (G-Project)
 ##### - Period : 2022.03 - 2022.06 (3 month)
