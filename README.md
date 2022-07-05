@@ -12,7 +12,7 @@
 <img src="https://kingsae1.github.io/assets/img/portfolio/4.JPG" alt="KT Poster Viewer">
 
 
-## KT - Next ollehTV (G-Project)
+## KT - Next ollehTV PoC (G-Project)
 ##### - Period : 2022.03 - 2022.06 (3 month)
 ##### - Language : Svelte, Nodejs, MongoDB, Firebase, Android TV OS
 ##### - Description : KT Customer 부문 핵심 프로젝트 (1인 개발)
