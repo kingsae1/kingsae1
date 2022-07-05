@@ -23,6 +23,7 @@
 ##### - Language : Chrome Extenstions (JS)
 ##### - Description : Chrome Extenstion을 이용하여 Context에 영상 빨리감기를 위한 단축 버튼을 제공하는 플러그인
 ##### - Repo Link : https://github.com/kingsae1/chrome-skipvideo-js
+<img src="https://kingsae1.github.io/assets/img/portfolio/skipmovie.png" alt="Skip Movie">
 
 ## KT - InAbleCapture 
 ##### - Period : 2021.07 - 2021.08
