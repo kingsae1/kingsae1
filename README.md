@@ -5,6 +5,17 @@
 <img src="https://img.shields.io/badge/language-javascript%20-green?logo=javascript"/> <img src="https://img.shields.io/badge/language-python-green?logo=python"/> <img src="https://img.shields.io/badge/language-go-green?logo=go"/> <img src="https://img.shields.io/badge/platform-nodejs-blue?logo=node"/> <img src="https://img.shields.io/badge/platform-mongodb-blue?logo=mongodb"/> <img src="https://img.shields.io/badge/platform-git-blue?logo=git"/> <img src="https://img.shields.io/badge/framework-vue-orange?logo=vue-dot-js"/> <img src="https://img.shields.io/badge/framework-nuxt-orange?logo=nuxt-dot-js"/> <img src="https://img.shields.io/badge/framework-react-orange?logo=react"/> <img src="https://img.shields.io/badge/framework-reactnative-orange?logo=reactnativejs"/> <img src="https://img.shields.io/badge/framework-angularjs-orange?logo=angular"/> <img src="https://img.shields.io/badge/framework-tensorflow-orange?logo=tensorflow"/> <img src="https://img.shields.io/badge/framework-pytorch-orange?logo=pytorch"/>
 
 # 🔥 Project Portfolio
+## KT - Poster Viewer
+##### - Period : 2022.07 (1.5 weeks)
+##### - Language : Electron, Svelte, Nodejs, MongoDB, Firebase
+##### - Description : 가로형 포스터 검수를 위한 프로그램
+
+## KT - Next ollehTV (G-Project)
+##### - Period : 2022.03 - 2022.06 (3 month)
+##### - Language : Svelte, Nodejs, MongoDB, Firebase, Android TV OS
+##### - Description : KT Customer 부문 핵심 프로젝트 (1인 개발)
+##### - Rewards : Customer부문 Good Job Award(개인)
+
 ## ToyProject - (Chrome Extenstions) SkipVideo
 ##### - Period : 2021.10 (1 month)
 ##### - Language : Chrome Extenstions (JS)
