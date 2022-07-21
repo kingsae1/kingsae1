@@ -54,6 +54,7 @@
 ##### - Period : 2019 – 2020
 ##### - Language : Git, Webpack, Vue, Nuxt
 ##### - Description : Nuxt-Vue를 이용한 웹 컴포넌트 개발
+<img src="https://kingsae1.github.io/assets/img/portfolio/aips.JPG" alt="CoinBot">
 
 ## Screen Viewer
 ##### - Period : 2017.11 – 2019
