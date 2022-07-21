@@ -44,6 +44,12 @@
 ##### - Description : 차세대 미디어 서비스 개발 (서버 및 Client SDK)
 <img src="https://kingsae1.github.io/assets/img/portfolio/kt_voiceportal.png" alt="KT NextUX">
 
+## ToyProject - 코인봇
+##### - Period : 2020 – 2021
+##### - Language : Git, Webpack, Nodejs, Python, Telegram
+##### - Description : LSTM모델을 이용한 추천 코인 봇
+<img src="https://kingsae1.github.io/assets/img/portfolio/%EC%BD%94%EC%9D%B8%EB%B4%87.JPG" alt="CoinBot">
+
 ## Ahnlab - Coldbrew
 ##### - Period : 2019 – 2020
 ##### - Language : Git, Webpack, Vue, Nuxt
