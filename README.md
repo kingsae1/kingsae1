@@ -47,7 +47,7 @@
 ## ToyProject - 코인봇
 ##### - Period : 2020 – 2021
 ##### - Language : Git, Webpack, Nodejs, Python, Telegram
-##### - Description : LSTM모델을 이용한 추천 코인 봇
+##### - Description : LSTM모델을 이용한 추천 코인 봇. (실시간 뉴스 분석 및 종목 추천)
 <img src="https://kingsae1.github.io/assets/img/portfolio/%EC%BD%94%EC%9D%B8%EB%B4%87.JPG" alt="CoinBot">
 
 ## Ahnlab - Coldbrew
