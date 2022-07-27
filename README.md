@@ -5,12 +5,17 @@
 <img src="https://img.shields.io/badge/language-javascript%20-green?logo=javascript"/> <img src="https://img.shields.io/badge/language-python-green?logo=python"/> <img src="https://img.shields.io/badge/language-go-green?logo=go"/> <img src="https://img.shields.io/badge/platform-nodejs-blue?logo=node"/> <img src="https://img.shields.io/badge/platform-mongodb-blue?logo=mongodb"/> <img src="https://img.shields.io/badge/platform-git-blue?logo=git"/> <img src="https://img.shields.io/badge/framework-vue-orange?logo=vue-dot-js"/> <img src="https://img.shields.io/badge/framework-nuxt-orange?logo=nuxt-dot-js"/> <img src="https://img.shields.io/badge/framework-react-orange?logo=react"/> <img src="https://img.shields.io/badge/framework-reactnative-orange?logo=reactnativejs"/> <img src="https://img.shields.io/badge/framework-angularjs-orange?logo=angular"/> <img src="https://img.shields.io/badge/framework-tensorflow-orange?logo=tensorflow"/> <img src="https://img.shields.io/badge/framework-pytorch-orange?logo=pytorch"/>
 
 # 🔥 Project Portfolio
+## ToyProject - RON BOT Rest API 
+##### - Period : 2022.06 - 08
+##### - Language : Svelte, Nodejs, Firebase
+##### - Description : Telegram/Slack BOT을 Rest API를 통해 (Multi/Unicast) 메세지 전달. 특정 Context의 경우 Deeplearning과 연동하여 Response전달.
+<img src="https://kingsae1.github.io/assets/img/portfolio/11.JPG" alt="KT Poster Viewer">
+
 ## KT - Poster Viewer
 ##### - Period : 2022.07 (1.5 weeks)
 ##### - Language : Electron, Svelte, Nodejs, MongoDB, Firebase
 ##### - Description : 가로형 포스터 검수를 위한 프로그램 (기획 및 개발 - Frontend/Backend)
 <img src="https://kingsae1.github.io/assets/img/portfolio/4.JPG" alt="KT Poster Viewer">
-
 
 ## KT - Next ollehTV PoC (G-Project)
 ##### - Period : 2022.03 - 2022.06 (3 month)
