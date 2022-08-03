@@ -5,6 +5,11 @@
 <img src="https://img.shields.io/badge/language-javascript%20-green?logo=javascript"/> <img src="https://img.shields.io/badge/language-python-green?logo=python"/> <img src="https://img.shields.io/badge/language-go-green?logo=go"/> <img src="https://img.shields.io/badge/platform-nodejs-blue?logo=node"/> <img src="https://img.shields.io/badge/platform-mongodb-blue?logo=mongodb"/> <img src="https://img.shields.io/badge/platform-git-blue?logo=git"/> <img src="https://img.shields.io/badge/framework-vue-orange?logo=vue-dot-js"/> <img src="https://img.shields.io/badge/framework-nuxt-orange?logo=nuxt-dot-js"/> <img src="https://img.shields.io/badge/framework-react-orange?logo=react"/> <img src="https://img.shields.io/badge/framework-reactnative-orange?logo=reactnativejs"/> <img src="https://img.shields.io/badge/framework-angularjs-orange?logo=angular"/> <img src="https://img.shields.io/badge/framework-tensorflow-orange?logo=tensorflow"/> <img src="https://img.shields.io/badge/framework-pytorch-orange?logo=pytorch"/>
 
 # 🔥 Project Portfolio
+## KT - Motion Effect
+##### - Period : 2022.06 - 08
+##### - Language : Python, Pytorch, Nodejs, EJS(Template)
+##### - Description : 3D Photography using COntext-aware layered Depth inpainting 논문 이용한 포스터 이미지에 리모컨 반응에 따른 Motion Effect 개발 (기획 및 개발 - Deeplearning/ Frontend/ Backend)
+
 ## ToyProject - RON BOT Rest API 
 ##### - Period : 2022.06 - 08
 ##### - Language : Svelte, Nodejs, Firebase
