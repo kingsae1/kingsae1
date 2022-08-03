@@ -9,7 +9,7 @@
 ##### - Period : 2022.06 - 08
 ##### - Language : Python, Pytorch, Nodejs, EJS(Template)
 ##### - Description : 3D Photography using COntext-aware layered Depth inpainting 논문 이용한 포스터 이미지에 리모컨 반응에 따른 Motion Effect 개발 (기획 및 개발 Deeplearning/ Frontend/ Backend)
-##### - Paper : https://arxiv.org/abs/2004.04727
+##### - Paper : 1) Inpaint : https://arxiv.org/abs/2004.04727 2) U2Net : https://arxiv.org/abs/2005.09007v3
 
 ## ToyProject - RON BOT Rest API 
 ##### - Period : 2022.06 - 08
