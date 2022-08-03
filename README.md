@@ -52,7 +52,7 @@
 ## KT - 차세대 NextUX
 ##### - Period : 2020 – 2021
 ##### - Language : Git, Webpack, Nodejs, Python, Go
-##### - Description : 차세대 미디어 서비스 개발 (서버 및 Client SDK)
+##### - Description : Voice를 이용한 차세대 미디어 서비스 개발 (서버 및 Client SDK)
 <img src="https://kingsae1.github.io/assets/img/portfolio/kt_voiceportal.png" alt="KT NextUX">
 
 ## ToyProject - 코인봇
