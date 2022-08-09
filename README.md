@@ -67,7 +67,7 @@
 ##### - Description : Nuxt-Vue를 이용한 웹 컴포넌트 개발 (기획 및 개발 - Frontend)
 <img src="https://kingsae1.github.io/assets/img/portfolio/aips.JPG" alt="CoinBot">
 
-## Screen Viewer
+## Screen View
 ##### - Period : 2017.11 – 2019
 ##### - Language : Git, Gulp, Nodejs, Xml Parser, PSD parser, Socket, MongoDB
 ##### - Description : Screen Viewer 로써 개발자와 디자이너간의 GUI 를 좀 더 편하게 관리 및 커뮤니케이션을 할 수 있도록 제공해주는 Application (기획 및 개발 - Frontend/Backend)
