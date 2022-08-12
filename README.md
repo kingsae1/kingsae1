@@ -5,6 +5,16 @@
 <img src="https://img.shields.io/badge/language-javascript%20-green?logo=javascript"/> <img src="https://img.shields.io/badge/language-python-green?logo=python"/> <img src="https://img.shields.io/badge/language-go-green?logo=go"/> <img src="https://img.shields.io/badge/platform-nodejs-blue?logo=node"/> <img src="https://img.shields.io/badge/platform-mongodb-blue?logo=mongodb"/> <img src="https://img.shields.io/badge/platform-git-blue?logo=git"/> <img src="https://img.shields.io/badge/framework-vue-orange?logo=vue-dot-js"/> <img src="https://img.shields.io/badge/framework-nuxt-orange?logo=nuxt-dot-js"/> <img src="https://img.shields.io/badge/framework-react-orange?logo=react"/> <img src="https://img.shields.io/badge/framework-reactnative-orange?logo=reactnativejs"/> <img src="https://img.shields.io/badge/framework-angularjs-orange?logo=angular"/> <img src="https://img.shields.io/badge/framework-tensorflow-orange?logo=tensorflow"/> <img src="https://img.shields.io/badge/framework-pytorch-orange?logo=pytorch"/>
 
 # 🔥 Project Portfolio
+## ToyProject - RealTimeObserver (NPM Module)
+#### - Period : 2022.08
+#### - Language : javascript
+#### - Description : real-time-observer is a plugin of node module to subscribe lots of databases. but this beta feature is available to use MongoDB
+#### - Repo Link : https://github.com/kingsae1/real-time-observer
+<img src="https://github.com/kingsae1/real-time-observer/blob/main/realtimeobserver.JPG?raw=true" alt="RealTimeObserver">
+```js
+npm i real-time-observer
+```
+
 ## KT - Motion Effect
 ##### - Period : 2022.06 - 08
 ##### - Language : Python, Pytorch, Nodejs, EJS(Template)
