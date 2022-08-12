@@ -6,14 +6,18 @@
 
 # 🔥 Project Portfolio
 ## ToyProject - RealTimeObserver (NPM Module)
+<img src="https://github.com/kingsae1/real-time-observer/blob/main/realtimeobserver.JPG?raw=true" alt="RealTimeObserver">
+
+How to install
+```javascript
+  npm i real-time-observer
+```
+
 #### - Period : 2022.08
 #### - Language : javascript
 #### - Description : real-time-observer is a plugin of node module to subscribe lots of databases. but this beta feature is available to use MongoDB
 #### - Repo Link : https://github.com/kingsae1/real-time-observer
-<img src="https://github.com/kingsae1/real-time-observer/blob/main/realtimeobserver.JPG?raw=true" alt="RealTimeObserver">
-```js
-npm i real-time-observer
-```
+
 
 ## KT - Motion Effect
 ##### - Period : 2022.06 - 08
