@@ -25,8 +25,7 @@ How to install
 ## KT - Motion Effect
 ##### - Period : 2022.06 - 08
 ##### - Language : Python, Pytorch, Nodejs, EJS(Template)
-##### - Description : 3D Photography using COntext-aware layered Depth inpainting 논문 이용한 포스터 이미지에 리모컨 반응에 따른 Motion Effect 개발 (기획 및 개발 Deeplearning/ Frontend/ Backend)
-##### - Paper : 1) Inpaint : https://arxiv.org/abs/2004.04727 2) U2Net : https://arxiv.org/abs/2005.09007v3   
+##### - Description : 포스터 이미지에 리모컨 반응에 따른 Motion Effect 개발 (기획 및 개발 Deeplearning/ Frontend/ Backend)
 ![motionEffect](https://user-images.githubusercontent.com/20310898/185529899-b14f10b2-cd88-4dbf-bdbb-1968cb4b10c4.gif)
 
 ## ToyProject - RON BOT Rest API 
