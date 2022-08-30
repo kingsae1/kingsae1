@@ -26,7 +26,7 @@ How to install
 ##### - Period : 2022.06 - 08
 ##### - Language : Python, Pytorch, Nodejs, EJS(Template)
 ##### - Description : 포스터 이미지에 리모컨 반응에 따른 Motion Effect 개발 (기획 및 개발 Deeplearning/ Frontend/ Backend)
-![motionEffect](https://user-images.githubusercontent.com/20310898/185529899-b14f10b2-cd88-4dbf-bdbb-1968cb4b10c4.gif)
+[![Motion Effect]](https://user-images.githubusercontent.com/20310898/187477583-f86d766c-9f76-4d5a-99d6-84ea6b66262b.mp4)
 
 ## ToyProject - RON BOT Rest API 
 ##### - Period : 2022.06 - 08
