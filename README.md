@@ -57,7 +57,9 @@ How to install
 ##### - Period : 2021.07 - 2021.08
 ##### - Language : Go, Svelte, Electorn, Firebase, Nodejs
 ##### - Description: Hooking, Code Injection을 이용하여 KT OllehTv 특정 서비스(InApp) 자동 캡쳐 및 업로드 툴 (기획 및 개발 - Frontend/Backend)
-<img src="https://kingsae1.github.io/assets/img/portfolio/kt_inablecapture.png" alt="InAblerCapture">
+<img src="https://kingsae1.github.io/assets/img/portfolio/kt_inablecapture.png" alt="InAblerCapture" />   
+
+[![InableCapture](https://user-images.githubusercontent.com/20310898/187475728-293fb50a-9a8c-485f-aff0-6fee3cf3ab31.png)](https://user-images.githubusercontent.com/20310898/187473611-257090aa-3a91-4610-a637-bfac34bca2e1.mp4)
 
 ## ToyProject - AutoMover
 ##### - Period : 2021
