@@ -45,7 +45,7 @@ How to install
 ##### - Language : Svelte, Nodejs, MongoDB, Firebase, Android TV OS
 ##### - Description : KT Customer 부문 핵심 프로젝트 (1인 개발 Frontend/Backend/Middleware)
 ##### - Rewards : Customer부문 Good Job Award(개인)
-<img src="https://gitlab.com/kt.kingsae/assetinfo/-/raw/main/portfolio/gtv.png" alt="G-project">
+<img src="https://gitlab.com/kt.kingsae/assetinfo/-/raw/main/portfolio/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-10-04_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_11.05.03.png" alt="G-project">
 
 ## ToyProject - (Chrome Extenstions) SkipVideo
 ##### - Period : 2021.10 (1 month)
