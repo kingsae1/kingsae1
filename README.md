@@ -40,7 +40,7 @@ How to install
 ##### - Description : 가로형 포스터 검수를 위한 프로그램 (기획 및 개발 - Frontend/Backend)
 <img src="https://kingsae1.github.io/assets/img/portfolio/4.JPG" alt="KT Poster Viewer">
 
-## KT - Next ollehTV PoC (G-Project)
+## KT - Next ollehTV PoC (GENIETV-Project)
 ##### - Period : 2022.03 - 2022.06 (3 month)
 ##### - Language : Svelte, Nodejs, MongoDB, Firebase, Android TV OS
 ##### - Description : KT Customer 부문 핵심 프로젝트 (1인 개발 Frontend/Backend/Middleware)
