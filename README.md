@@ -72,7 +72,7 @@ https://user-images.githubusercontent.com/20310898/194005301-da22dcf2-4ef1-4f24-
 
 [![InableCapture](https://user-images.githubusercontent.com/20310898/187475728-293fb50a-9a8c-485f-aff0-6fee3cf3ab31.png)](https://user-images.githubusercontent.com/20310898/187473611-257090aa-3a91-4610-a637-bfac34bca2e1.mp4)
 
-## ToyProject - AutoMover
+## ToyProject - AutoMover (Go)
 ##### - Period : 2021
 ##### - Language : Go
 ##### - Description : 사무용 PC에서 자동 절전모드를 막기위한 AutoMover (기획 및 개발)
