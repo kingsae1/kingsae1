@@ -60,10 +60,18 @@ https://user-images.githubusercontent.com/20310898/194005301-da22dcf2-4ef1-4f24-
 <img src="https://gitlab.com/kt.kingsae/assetinfo/-/raw/main/portfolio/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-10-04_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_11.05.03.png" alt="G-project">
 
 ## ToyProject - (Chrome Extenstions) SkipVideo
+```
+1. chrome://extentsions 접속
+2. 개발자 모드 ON
+3. '압축해제된 확장 프로그램을 로드합니다' 버튼 클릭
+4. 아래 파일링크에서 받은 app.zip파일을 해제한 폴더를 선택하여 설치 (해당 위치가 삭제되면 플러그인 사용 불가)
+5. 단축키 (Default : Ctrl + Shift + 1) 누르면 바로 동영상 Skip 가능
+```
 ##### - Period : 2021.10 (1 month)
 ##### - Language : Chrome Extenstions (JS)
 ##### - Description : Chrome Extenstion을 이용하여 Context에 영상 빨리감기를 위한 단축 버튼을 제공하는 플러그인 (기획 및 개발)
 ##### - Repo Link : https://github.com/kingsae1/chrome-skipvideo-js
+##### - File Link : https://drive.google.com/file/d/1sZfxvjOUeV21HWGA-OM0HZ4OMSJ-xQvm/view?usp=sharing
 <img src="https://kingsae1.github.io/assets/img/portfolio/skipmovie.png" alt="Skip Movie">
 
 ## KT - InAbleCapture 
@@ -79,6 +87,7 @@ https://user-images.githubusercontent.com/20310898/194005301-da22dcf2-4ef1-4f24-
 ##### - Language : Go
 ##### - Description : 사무용 PC에서 자동 절전모드를 막기위한 AutoMover (기획 및 개발)
 ##### - Repo Link : https://github.com/kingsae1/go-automover-hook
+##### _ File Link : https://drive.google.com/file/d/1mJwE_1fXrELvypgZUgdi2gFCaWpn6EXw/view?usp=sharing
 <img src="https://kingsae1.github.io/assets/img/portfolio/automover.png" alt="AutoMover">
 
 ## KT - 차세대 NextUX
