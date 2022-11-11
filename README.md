@@ -9,7 +9,8 @@
 
 # 🔥 Project Portfolio
 ## ToyProject - AutoMover (Python)
-<img src="https://github.com/kingsae1/python-automover-hook/blob/main/assets/automover2.png?raw=true" alt="AutoMover">
+<img src="https://github.com/kingsae1/python-automover-hook/blob/main/assets/automover2.png?raw=true" alt="AutoMover">   
+
 #### - Period : 2022.11
 #### - Language : python, pyqt5
 #### - Description : 일정시간이 지나면 마우스를 움직여주는 윈도우 프로그램
