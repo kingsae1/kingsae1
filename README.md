@@ -12,7 +12,7 @@
 <img src="https://github.com/kingsae1/python-automover-hook/blob/main/assets/automover2.png?raw=true" alt="AutoMover">   
 
 ##### - Period : 2022.11
-##### - Language : python, pyqt5
+##### - Language : python, pyqt5, win32api
 ##### - Description : 일정시간이 지나면 마우스를 움직여주는 윈도우 프로그램
 ##### - Repo Link : https://github.com/kingsae1/python-automover-hook
 ##### - File Link : https://drive.google.com/file/d/1bDIFnXe5HXRkyiUEfH53CCR1X7hDk8db/view?usp=sharing
