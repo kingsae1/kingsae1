@@ -10,13 +10,13 @@
 # 🔥 Project Portfolio
 ## ToyProject - SuaTalk
 <p align="left" width="100%">
-<img src="https://user-images.githubusercontent.com/20310898/203672977-e8c217bb-42e1-4be0-baf2-728d5a8b25d9.PNG" alt="suatalk" width="15%"/>
-<img src="https://user-images.githubusercontent.com/20310898/203672980-2d69d8aa-2a1a-43a9-aac2-0e4af02b40a0.PNG" alt="suatalk" width="15%"/>
-<img src="https://user-images.githubusercontent.com/20310898/203672982-b4be2d2e-4a2a-48a8-8956-42c2382d9999.PNG" alt="suatalk" width="15%"/>
-<img src="https://user-images.githubusercontent.com/20310898/203672987-0a970e11-494d-4fb1-a957-730c9e3f7a3e.PNG" alt="suatalk" width="15%"/>
-<img src="https://user-images.githubusercontent.com/20310898/203672988-7aa416b8-dc61-459d-b327-f877a4b633c2.PNG" alt="suatalk" width="15%"/>
-<img src="https://user-images.githubusercontent.com/20310898/203672990-6951ec2a-5c4b-42c1-b0b7-a5347d12dc2c.PNG" alt="suatalk" width="15%"/>
-<img src="https://user-images.githubusercontent.com/20310898/203672991-9dd67591-27d4-43b6-b20b-4d97fd0cd13b.PNG" alt="suatalk" width="15%"/>
+<img src="https://user-images.githubusercontent.com/20310898/203672977-e8c217bb-42e1-4be0-baf2-728d5a8b25d9.PNG" alt="suatalk" width="10%"/>
+<img src="https://user-images.githubusercontent.com/20310898/203672980-2d69d8aa-2a1a-43a9-aac2-0e4af02b40a0.PNG" alt="suatalk" width="10%"/>
+<img src="https://user-images.githubusercontent.com/20310898/203672982-b4be2d2e-4a2a-48a8-8956-42c2382d9999.PNG" alt="suatalk" width="10%"/>
+<img src="https://user-images.githubusercontent.com/20310898/203672987-0a970e11-494d-4fb1-a957-730c9e3f7a3e.PNG" alt="suatalk" width="10%"/>
+<img src="https://user-images.githubusercontent.com/20310898/203672988-7aa416b8-dc61-459d-b327-f877a4b633c2.PNG" alt="suatalk" width="10%"/>
+<img src="https://user-images.githubusercontent.com/20310898/203672990-6951ec2a-5c4b-42c1-b0b7-a5347d12dc2c.PNG" alt="suatalk" width="10%"/>
+<img src="https://user-images.githubusercontent.com/20310898/203672991-9dd67591-27d4-43b6-b20b-4d97fd0cd13b.PNG" alt="suatalk" width="10%"/>
 </p>
   
 ##### - Period : 2022.08 ~ 2022.10
