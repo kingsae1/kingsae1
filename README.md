@@ -86,8 +86,9 @@ https://user-images.githubusercontent.com/20310898/194005301-da22dcf2-4ef1-4f24-
 ##### - Language : Chrome Extenstions (JS)
 ##### - Description : Chrome Extenstion을 이용하여 Context에 영상 빨리감기를 위한 단축 버튼을 제공하는 플러그인 (기획 및 개발)
 ##### - Repo Link : https://github.com/kingsae1/chrome-skipvideo-js
-##### - File Link : https://drive.google.com/file/d/1sZfxvjOUeV21HWGA-OM0HZ4OMSJ-xQvm/view?usp=sharing
+##### - Plugin Link : https://chrome.google.com/webstore/detail/skipvideo/jaoafgdaaoiejcehgcfkichjbpaefeck?utm_source=chrome-ntp-icon
 <img src="https://kingsae1.github.io/assets/img/portfolio/skipmovie.png" alt="Skip Movie">
+
 
 ## KT - InAbleCapture 
 ##### - Period : 2021.07 - 2021.08
